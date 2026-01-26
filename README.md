@@ -62,6 +62,16 @@ A Streamlit application that ingests PDFs and images, extracts text, chunks cont
    - Monitor progress with real-time status updates
    - Documents are stored with SHA256-based IDs
 
+
+
+https://github.com/user-attachments/assets/17eabc64-ff39-4474-a615-5846978e4578
+
+
+
+https://github.com/user-attachments/assets/10109b59-b7ea-4e1d-9731-1b3c7bd28122
+
+
+
 4. **Ask Questions:**
    - Enter questions in the text area (supports multi-line)
    - Optionally filter by specific files using the sidebar
