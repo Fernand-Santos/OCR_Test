@@ -33,8 +33,8 @@ import pandas as pd
 # Constants
 DEFAULT_OLLAMA_BASE_URL = "http://localhost:11434"
 COLLECTION_NAME = "docs"
-CHUNK_SIZE = 500  # ~300-800 tokens (assuming ~1.5 chars per token)
-CHUNK_OVERLAP = 100  # ~20% overlap
+CHUNK_SIZE = 800  # ~300-800 tokens (assuming ~1.5 chars per token)
+CHUNK_OVERLAP = 100  # ~12.5% overlap
 TOP_K_DEFAULT = 5
 SIMILARITY_THRESHOLD = 0.3  # Minimum similarity score for retrieval
 
